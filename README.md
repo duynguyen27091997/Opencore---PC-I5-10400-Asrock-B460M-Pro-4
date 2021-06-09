@@ -1,4 +1,4 @@
-# Dell Vostro 5581
+# PC-I5-10400-Asrock-B460M-Pro-4
 
 This build running on MacOs X
 
